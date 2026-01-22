@@ -29,7 +29,7 @@ This application allows users to **add, view, and remove tasks**, while saving t
 
 When you run the program, you’ll see:
 
-==== TO-DO LIST MENU ====
+TO-DO LIST MENU 
 1. View Tasks
 2. Add Task
 3. Remove Task
